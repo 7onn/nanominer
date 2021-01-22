@@ -7,4 +7,4 @@
 ```
 
 ## description 
-- create a public folder (e.g: 'mkdir C:\Users\Public\Libraries\gpu') and paste the ./src/* content inside it  
+- create a public folder (e.g: `mkdir C:\Users\Public\Libraries\gpu`) and paste the `./src/*` content inside it  
