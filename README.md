@@ -1,0 +1,9 @@
+# furyminer
+
+## TL;DR;
+
+```powershell
+.\cmd.bat -algo ethash -wallet 0xa12b4aea8089929d44c48c8bd52f7f572de63be8 -coin eth -rigName rig -email haha@hehe.com
+```
+
+## description 
