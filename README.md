@@ -1,4 +1,4 @@
-# furyminer
+# nanominer windows task
 
 ## TL;DR;
 run it manually before [setting up](https://github.com/devbytom/furyminer#setup) so you can shut the firewall for good
