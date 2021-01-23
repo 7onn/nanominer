@@ -4,7 +4,7 @@
 run it manually before [setting up](https://github.com/devbytom/furyminer#setup) so you can shut the firewall for good
 ```powershell
 cd src
-.\cmd.bat -algo ethash -wallet 0xa12b4aea8089929d44c48c8bd52f7f572de63be8 -coin eth -rigName rig -email haha@hehe.com
+.\cmd.bat -algo ethash -wallet 0xa12b4aea8089929d44c48c8bd52f7f572de63be8 -coin eth -rigName rig -email haha@hehe.com -noLog true
 ```
 
 ## setup 
@@ -18,7 +18,7 @@ cd src
 - ![create_task_trigger](https://user-images.githubusercontent.com/11949221/105560379-5900d580-5cf2-11eb-8e6c-ebb43e7fe1cb.JPG)
 
 5. actions:
-- Program/Script: `cmd.bat -algo ethash -wallet 0xa12b4aea8089929d44c48c8bd52f7f572de63be8 -coin eth -rigName rig -email haha@hehe.com`
+- Program/Script: `cmd.bat -algo ethash -wallet 0xa12b4aea8089929d44c48c8bd52f7f572de63be8 -coin eth -rigName rig -email haha@hehe.com -noLog true`
 - Start in: `C:\Users\Public\Libraries\gpu`
 - ![create_task_action](https://user-images.githubusercontent.com/11949221/105560375-57cfa880-5cf2-11eb-8308-8dfe418e9522.JPG)
 
