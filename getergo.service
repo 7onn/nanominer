@@ -1,0 +1,11 @@
+[Unit]
+Description=getergo
+
+[Service]
+Type=simple
+RestartSec=5
+Restart=on-failure
+ExecStart=/home/_user_/nanominer/nanominer /home/_user_/nanominer/config.ini
+
+[Install]
+WantedBy=default.target
